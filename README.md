@@ -6,7 +6,7 @@ Helping ugly fruits and veggies find their place in this world - Brazil edition
 * Lead Developer: Kris Stern `@slim-patchy`
 
 ## Submission name
-FoodsSave's Not-So-Ugly Marketplace
+FoodsSave's Not-So-Ugly Market Place
 
 ## Short description
 A marketplace for Brazil farmers to sell normally rejected ugly fruits and veggies.
