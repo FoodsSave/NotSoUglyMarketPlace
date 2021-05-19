@@ -12,7 +12,7 @@ FoodsSave's Not-So-Ugly Marketplace
 A marketplace for Brazil farmers to sell normally rejected ugly fruits and veggies.
 
 ## Long description
-TBC
+More information is available on our [Background](https://github.com/FoodsSave/NotSoUglyMarketPlace/blob/2ca03d44355ca23d942b18d68bc30fec3975fe85/BACKGROUND.md) page.
 
 ## Solution roadmap
 TBC
