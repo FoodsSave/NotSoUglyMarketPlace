@@ -1,4 +1,4 @@
-# Not-So-Ugly MarketPlace
+# Not-So-Ugly Market Place
 Helping ugly fruits and veggies find their place in this world - Brazil edition
 
 ## Team members
