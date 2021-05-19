@@ -3,7 +3,7 @@ Helping ugly fruits and veggies find their place in this world - Brazil edition
 
 ## Team members
 * Team Leader: Cristina Veiga `@cristina-veiga`
-* Developer: Kris Stern `@slim-patchy`
+* Lead Developer: Kris Stern `@slim-patchy`
 
 ## Submission name
 FoodsSave's Not-So-Ugly Marketplace
