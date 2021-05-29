@@ -2,7 +2,7 @@
 Helping ugly fruits and veggies find their place in this world - Brazil edition
 
 ## Team members
-* Team Leader: Cristina Veiga `@cristina-veiga`
+* Business Development Contact: Cristina Veiga `@cristina-veiga`
 * Lead Developer: Kris Stern `@slim-patchy`
 
 ## Submission name
