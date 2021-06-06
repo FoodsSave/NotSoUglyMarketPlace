@@ -22,4 +22,4 @@ TBC
 TBC
 
 ## List one or more IBM Cloud Services or IBM Systems used in the solution
-IBM API Connect
+* IBM API Connect
